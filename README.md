@@ -1,0 +1,2 @@
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesandrewhunter&count_private=true&show_icons=true&hide=prs&theme=github_dark&hide_border=true" alt="James Hunters's GitHub Stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesandrewhunter&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
